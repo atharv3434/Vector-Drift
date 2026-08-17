@@ -6,3 +6,6 @@ Newtonian Inertia & Vector Physics: Realistic momentum, angular rotation, accele
 Toroidal Screen Wrapping: Seamless screen-edge wrapping for the ship, projectiles, and asteroids.
 Procedural Asteroid Splitting: Asteroids fracture dynamically upon impact ($Large \rightarrow Medium \rightarrow Small$) with momentum conservation and randomized vector dispersion.
 Vector Particle System: Visual feedback with thrust trails, kinetic spark bursts, and explosive debris.Lives & Scoring System: Multi-life arcade progression, high-score tracking, invulnerability respawn frames, and combo multipliers.Wave Progression: Dynamic wave spawning with increasing asteroid density and speed scaling.
+
+🎮 ControlsActionPrimary
+KeyAlternate KeyRotate LeftA← Left ArrowRotate RightD→ Right ArrowThrust ForwardW↑ Up ArrowFire BlasterSpaceJHyperspace / TeleportLeft ShiftKPause GamePEscRestart (Game Over)REnter
